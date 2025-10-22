@@ -1,6 +1,8 @@
 E-Commerce Sales Analysis Dashboard
+
 Project Overview
- e-commerce sales data to explore customer trends, product performance, delivery delays, and refunds.
+
+e-commerce sales data to explore customer trends, product performance, delivery delays, and refunds.
 Data cleaned using Python (Pandas, NumPy) and visualized through an interactive Power BI dashboard.
 
 1.	Data Cleaning & Preparation
@@ -54,4 +56,5 @@ A complete end-to-end analytics workflow — from raw data to actionable insight
 •	Understand customer behaviour patterns
 
 •	Optimize sales strategies using visual storytelling
+
 
